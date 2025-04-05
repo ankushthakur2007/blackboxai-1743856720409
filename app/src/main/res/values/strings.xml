@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Realme Pro Camera</string>
+    <string name="recording_started">Recording started</string>
+    <string name="recording_stopped">Recording saved</string>
+    <string name="recording_failed">Failed to start recording</string>
+    <string name="color_profile_rec709">Rec.709</string>
+    <string name="color_profile_gamma24">Gamma 2.4</string>
+    <string name="color_profile_realmelog">Realme Log-C</string>
+</resources>
