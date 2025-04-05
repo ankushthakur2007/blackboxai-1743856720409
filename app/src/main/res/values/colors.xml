@@ -1,0 +1,9 @@
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name="hud_background">#80000000</color>
+    <color name="recording_red">#FFFF3B30</color>
+    <color name="focus_peaking">#FF00FF00</color>
+    <color name="zebra_stripes">#80FF0000</color>
+    <color name="waveform_background">#40000000</color>
+</resources>
